@@ -1,4 +1,4 @@
-** Twix.Hook Resources **
+**Twix.Hook Resources**
 
 These will be updated as the owners of these update them.
 I did not make VRChatUtilityKit.dll, ActionMenuApi.dll, UIExpansionKit.dll. 
